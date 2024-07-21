@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Abdullah, a full-time python developer 👨‍💻 practicing python for data Science 🚀</div>  
   
